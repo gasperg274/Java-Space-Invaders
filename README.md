@@ -1,5 +1,6 @@
 # Arkadna igra Space Invaders
 <ol>
+  <li>Link do predstavitnega videa: https://youtu.be/XGnKWc2Bohw </li>
   <li> Space invaders je japonska arkadna igra, igra je namenjena enemu igralcu, kateri ima
 3 življenja in med igranjem zbira točke, več točk kot imaš boljše je. Cilj igre je pobiti
 vse vesoljcke. Igra vsebuje laser, kateri je na spodnjem delu okna, laser premika
